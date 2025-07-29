@@ -37,9 +37,17 @@ button {
   width: max-content;
 }
 
+.turn-indicator {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1976d2;
+}
+
 .result {
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;
-  color: #333;
+  color: #d32f2f;
+  letter-spacing: 1px;
 } 
